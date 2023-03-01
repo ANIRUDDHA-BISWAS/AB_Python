@@ -1,3 +1,4 @@
 1) SyntaxError
 2) IndentationError
 3) NameError
+4) TypeError
